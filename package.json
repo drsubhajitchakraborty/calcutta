@@ -1,0 +1,15 @@
+{
+  "name": "calcutta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calcutta.js",
+  "scripts": {
+    "test": "calcutta"
+  },
+  "keywords": [
+    "calcutta",
+    "kolkata"
+  ],
+  "author": "SUBHAJIT CHAKRABORTY",
+  "license": "ISC"
+}
